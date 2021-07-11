@@ -56,7 +56,7 @@ const products = [
     name: 'Purple Urkle',
     image: '/images/purple_urkle.jpg',
     description:
-    'Purple Urkle is from another planet and you will be on a spaceship ride when you light this up.',
+    'Purple Urkle is from another planet and you will be on a spaceship when you light this up.',
     farm: "MARS",
     category: 'Sativa',
     price: "32.00",
@@ -65,5 +65,4 @@ const products = [
     numReviews: 69,
   },
 ]
-
-module.exports = products
+export default products
