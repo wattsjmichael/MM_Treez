@@ -1,0 +1,23 @@
+{
+  "name": "marijuana-mart",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wattsjmichael/MM_Treez.git"
+  },
+  "author": "Michael Watts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wattsjmichael/MM_Treez/issues"
+  },
+  "homepage": "https://github.com/wattsjmichael/MM_Treez#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
