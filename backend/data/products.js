@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Mexican Red Hair',
     image: '/images/mexican_red_strain.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 3,
   },
   {
-    _id: '2',
     name: 'Northern Lights',
     image: '/images/northern_lights.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 7,
   },
   {
-    _id: '3',
     name: 'Purple Icky',
     image: '/images/kush.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 11,
   },
   {
-    _id: '4',
     name: 'NW Skunk Weed',
     image: '/images/marijuana.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 11,
   },
   {
-    _id: '5',
     name: 'Purple Urkle',
     image: '/images/purple_urkle.jpg',
     description:
