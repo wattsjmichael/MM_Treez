@@ -1,6 +1,6 @@
 const products = [
   {
-    name: 'Mexican Red Hair',
+    name: 'Applacian Red Hair',
     image: '/images/mexican_red_strain.jpg',
     description:
     'Mexican Red Hair is a beautiful strain of marijuana from south of the border. Great for those days where you want to be a little more mellow',
